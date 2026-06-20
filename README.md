@@ -243,7 +243,7 @@ This is the single most common setup failure in RN + Firebase + Google Sign-In p
 
 ## Firebase / `google-services.json` Setup
 
-1. Go to [Firebase Console](https://console.firebase.google.com) → create a project (or use an existing one).
+1. Go to [Firebase Console](https://console.firebase.google.com) → create a project (or use an existing one, Google Cloud Console Account).
 2. Add an Android app to the project. Use the **exact** package name from `app.json` / `build.gradle`.
 3. Download `google-services.json`.
 4. Place it at:
